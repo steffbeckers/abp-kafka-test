@@ -1,5 +1,12 @@
 {
   "ConnectionStrings": {
     "Default": "Server=localhost;Database=ABPKafkaTest;Trusted_Connection=True"
+  },
+  "Kafka": {
+    "Connections": {
+      "Default": {
+        "BootstrapServers": "kafka.kafka.svc.cluster.local:9092"
+      }
+    }
   }
 }
