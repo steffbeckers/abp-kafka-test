@@ -1,5 +1,5 @@
 {
   "ConnectionStrings": {
-    "Default": "Server=localhost;Database=Test;Trusted_Connection=True"
+    "Default": "Server=localhost;Database=ABPKafkaTest;Trusted_Connection=True"
   }
 }
